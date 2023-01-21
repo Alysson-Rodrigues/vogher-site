@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="bg-black h-screen w-full flex justify-center items-center">
+      <main className="bg-black h-screen w-full flex justify-center items-center p-12">
         <div>
           <img src="/voghe.svg" className="w-[15rem] py-9 -mt-10" />
           <div className='flex  text-4xl'>
