@@ -25,7 +25,7 @@ export default function ModelWrapper() {
             height: '100vh',
          }}
       >
-         <ambientLight intensity={'1'} />
+         <ambientLight intensity={1} />
          <ambientLight intensity={0.1} />
          <directionalLight intensity={0.4} />
          <Suspense fallback={null}>
